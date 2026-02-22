@@ -1,0 +1,12 @@
+{
+    "layout": {
+        "vbonecut": "False"
+    },
+    "tabs": {
+        "type": "plugin",
+        "width": ""
+    },
+    "cuts": {
+        "type": "mousebites"
+    }
+}
