@@ -44,7 +44,7 @@ High-performance motor control featuring:
 ---
 
 ## 📂 PCB layout
-![PCB layout](pics/pbc_ver_1.png)
+![PCB layout](pics/pcb_ver_1.png)
 ---
 
 ## 📝 Design Notes
