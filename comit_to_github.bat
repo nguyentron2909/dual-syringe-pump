@@ -13,10 +13,10 @@ echo.
 set current_date=%DATE%
 
 :: Prompt the user for a commit message
-set /p commit_msg="Enter your commit message (or press Enter for 'update - %current_date%'): "
+set /p commit_msg="Enter your commit message (or press Enter for 'Update - %current_date%'): "
 
 :: If the user just presses Enter, use the default message with the date
-if "%commit_msg%"=="" set commit_msg=update - %current_date%
+if "%commit_msg%"=="" set commit_msg=Update - %current_date%
 
 :: Execute the Git commands
 echo.
