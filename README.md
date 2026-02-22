@@ -52,3 +52,4 @@ High-performance motor control featuring:
 
 * **Current Sensing:** Ensure you desolder the RS resistors from the driver modules if you are using an external current sensing setup to avoid interference.
 * **Thermal Management:** Provide adequate cooling (heatsinks/airflow) for the XL6009 boost converters and TMC2209 drivers if running the stepper motors at high continuous currents.
+* **Big thanks to google gemini for writting this for me :D
