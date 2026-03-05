@@ -7841,7 +7841,7 @@
 				)
 			)
 		)
-		(property "Footprint" "my_custom_footprint:GCT_DCJ200-10-A-XX-K_REVA"
+		(property "Footprint" "Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal"
 			(at 25.4 32.766 0)
 			(effects
 				(font
